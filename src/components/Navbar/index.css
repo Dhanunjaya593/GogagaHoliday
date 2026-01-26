@@ -1,0 +1,104 @@
+
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+.nav-bar-container{
+    display: flex;
+    padding: 1px;
+    border: 2px,solid,rgb(221, 209, 209);
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px; 
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0px; 
+    height: 50px;
+}
+.logo{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+
+}
+.green{
+    color: rgb(7, 170, 107);
+}
+.yellow{
+    color: yellowgreen;
+}
+.lines{
+    font-size: 22px;
+    margin-left: 15px;
+}
+.left-side-container{
+    display: flex;
+    align-items: center;
+
+}
+.right-side-container{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+
+}
+.fixlter-box{
+    background-color: transparent;
+    gap: 5px;
+    margin: 10px;
+    border: 2px,solid,rgb(5, 168, 43);
+    padding: 5px;
+    border-radius: 3px;
+
+}
+.filter{
+    font-size: 22px;
+
+}
+.BsGrid{
+    font-size: 27px;
+}
+.vertical-line{
+    height: 50px;
+    width: 2px;
+    background-color: rgb(225, 221, 221);
+    margin-left: 49px;
+}
+.map-container{
+    background-color: transparent;
+    gap: 5px;
+    margin: 10px;
+    border: 2px,solid,rgb(9, 6, 20);
+    padding: 5px;
+    border-radius: 3px;
+}
+.notification{
+    background-color: transparent;
+    gap: 5px;
+    margin: 10px;
+    border: 2px,solid,rgb(231, 29, 29);
+    padding: 5px;
+    border-radius: 3px;
+}
+.bell{
+    color:rgb(236, 16, 16);
+    font-size: 22px;
+}
+.profile{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    gap: 10px;
+    background-color: rgb(229, 232, 234);
+    height: 49px;
+    margin-left: 0px;
+    background-size: cover;
+
+}
+.image{
+    height: 51px;
+    width: 50px;
+    border: 1px,solid,rgb(153, 150, 150);
+    border-radius: 20px;
+    border-width: 4px;
+}

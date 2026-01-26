@@ -1,0 +1,44 @@
+.pakage-hearder-container{
+    border: 2px,solid,#b1b5b1;
+    margin-left: 35px;
+    margin-top: 15px;
+    margin-right: 15px;
+    margin-bottom: 0px;
+    width: 80%;
+    border-radius: 5px;
+    height: 100%;
+
+}
+.package-background{
+    background-color: #e9eee9;
+    height: 100vh;
+    padding: 15px;
+}
+.item-cards{
+    display: flex;
+    gap: 10px;
+
+}
+.button-style{
+    height: 35px;
+    border-style: none;
+    background-color: black;
+    color: white;
+    font-weight: 500;
+    border-radius: 3px;
+}
+.pakage-flights{
+    display: flex;
+    margin-top: 38px;
+    gap: 10px;
+
+}
+.pakage-line{
+    
+}
+.line{
+    margin-top: 7px;
+    background-color: rgb(13, 13, 13);
+    font-weight: bold;
+    height: 3px;
+}

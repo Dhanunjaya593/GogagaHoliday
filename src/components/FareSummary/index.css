@@ -1,0 +1,41 @@
+.fareSummery{
+    border: 1px,solid;
+    height: 55px;
+    width: 900px;
+    background-image: linear-gradient(to right, rgb(38, 2, 61),blue);
+    border-radius: 4px;
+    display: flex;
+    padding: 5px;
+    margin: 2px;
+    
+}
+.air-india-time{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    margin: 1px;
+}
+.air-india{
+    color: white;
+}
+
+.vertical{
+    width: 1px;
+    height: 30px;
+    background-color: rgb(198, 198, 208);
+    margin-top: 7px;
+    margin-left: 50px;
+    margin-right: 20px;
+}
+.summary{
+    padding: 2px;
+    
+
+}
+
+.fligh-details{
+
+}
+.page-container{
+    
+}

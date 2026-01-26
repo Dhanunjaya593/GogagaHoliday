@@ -1,0 +1,107 @@
+.search-container{
+    display: flex;
+    
+
+}
+.destination{
+    width: 350px;
+    height: 50px;
+    border: 2px,solid,rgb(212, 220, 216);
+    border-radius: 5px;
+    margin-top: 10px;
+    
+}
+.desination-style{
+    padding: 5px;
+    font-size: 13px;
+    font-weight: 700;
+    color: #787a78;
+
+}
+.trip-start-date{
+    width: 200px;
+    height: 50px;
+    border: 2px,solid,rgb(212, 220, 216);
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 15px;
+
+}
+.Passengers{
+    width: 250px;
+    height: 50px;
+    border: 2px,solid,rgb(212, 220, 216);
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+
+}
+.arrow{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.search{
+    
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 15px;
+    display: flex;
+    align-items: center;
+ 
+}
+.search-icon{
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    border: 2px,solid,rgb(212, 220, 216);
+    border-radius: 4px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    
+    
+}
+.hotal-container{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+
+}
+.hotal-card{
+    display: flex;
+    align-items: center;
+}
+.food-card{
+    display: flex;
+    align-items: center; 
+    margin-left: 85px;
+}
+.stars-contains{
+    width: 40px;
+    height: 30px;
+    border: 2px,solid,rgb(212, 220, 216);
+    border-radius: 3px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+
+.label-checkbox{
+
+}
+.food-container{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    margin-left: 20px;
+}
+.input{
+    background-color: black;
+}
