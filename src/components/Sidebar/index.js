@@ -1,4 +1,4 @@
-import PakageTaps from '../PakageTaps';
+import HeaderTabs from '../HeaderTabs';
 import './index.css' 
 import { MdHome } from "react-icons/md";
 import { MdFilterAlt } from "react-icons/md";
@@ -150,7 +150,7 @@ const Sidebar = ()=>{
             </div>
 
         </div> 
-        <PakageTaps/>
+        <HeaderTabs/>
         </div>
     )
 }

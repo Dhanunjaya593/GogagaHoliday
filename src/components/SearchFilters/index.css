@@ -6,9 +6,10 @@
 .destination{
     width: 350px;
     height: 50px;
-    border: 2px,solid,rgb(212, 220, 216);
+    border: 2px solid,rgb(212, 220, 216);
     border-radius: 5px;
     margin-top: 10px;
+    padding: 0PX;
     
 }
 .desination-style{
@@ -17,6 +18,14 @@
     font-weight: 700;
     color: #787a78;
 
+}
+.location{
+    padding-bottom: 5px;
+    margin: 0px;
+    font-size: 12px;
+    margin-left: 6px;
+    color: #787a78;
+    font-weight: 600;
 }
 .trip-start-date{
     width: 200px;
@@ -30,13 +39,14 @@
 .Passengers{
     width: 250px;
     height: 50px;
-    border: 2px,solid,rgb(212, 220, 216);
+    border: 2px solid,rgb(212, 220, 216);
     border-radius: 5px;
-    margin-top: 10px;
+    margin-top: 6px;
     margin-left: 15px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding-bottom: 2px;
     
 
 }
@@ -44,6 +54,12 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    width: 100%;
+    padding: 0 ;
+}
+.arrow-item{
+    padding: 3px;
+    margin-bottom: 3px;
 }
 .search{
     
@@ -55,17 +71,18 @@
  
 }
 .search-icon{
-    text-align: center;
     width: 50px;
     height: 50px;
-    border: 2px,solid,rgb(212, 220, 216);
+    border: 2px solid rgb(212, 220, 216);
     border-radius: 4px;
     background-color: black;
     color: white;
     font-size: 20px;
+    border-radius: 3px;
     
     
 }
+
 .hotal-container{
     display: flex;
     align-items: center;
@@ -84,7 +101,7 @@
 .stars-contains{
     width: 40px;
     height: 30px;
-    border: 2px,solid,rgb(212, 220, 216);
+    border: 2px solid,rgb(212, 220, 216);
     border-radius: 3px;
     padding: 5px;
     display: flex;

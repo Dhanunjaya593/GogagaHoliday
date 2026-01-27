@@ -1,0 +1,36 @@
+.pakage-hearder-container{
+    border: 2px,solid,#b1b5b1;
+    margin-left: 35px;
+    margin-top: 15px;
+    margin-right: 15px;
+    margin-bottom: 0px;
+    width: 80%;
+    border-radius: 5px;
+    height: 100%;
+
+}
+.package-background{
+    background-color: #e9eee9;
+    height: 100vh;
+    padding: 15px;
+}
+.item-cards{
+    display: flex;
+    gap: 10px;
+
+}
+.button-style {
+  height: 35px;
+  border: none;
+  background-color: transparent;
+  color: black;
+  font-weight: 600;
+  border-radius: 4px;
+  padding: 0 16px;
+  cursor: pointer;
+}
+
+.button-style.active {
+  background-color: black;
+  color: white;
+}
